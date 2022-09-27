@@ -1,0 +1,8 @@
+.container {
+    list-style: none;
+    display: inline-flex;
+}
+
+.item1,.item2,.item3,.item4,.item5 {
+    margin-right: 12px;
+}
