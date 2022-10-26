@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 const messageBox = document.querySelector('.js_box');
 const adaBtn = document.querySelector('.js_btn');
