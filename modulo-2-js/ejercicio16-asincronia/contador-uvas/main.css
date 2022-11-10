@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.msg{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.campanadas{
+    display: flex;
+    flex-direction: row;
+}
+.grapes {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
